@@ -11,7 +11,8 @@
 
 - 💬 Ask me about **DevOps**
 
-- 📫 How to reach me **sg8249000@gmail.com**
+- 📫 How to reach me <a href="sg8249000@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
 
 - ⚡ Fun fact **I create some awesome logo's**
 
@@ -27,5 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ram-ji-gupta&show_icons=true&locale=en" alt="ram-ji-gupta" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ram-ji-gupta&" alt="ram-ji-gupta" /></p>
-
+<!-- <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" alt="Snake animation" /> -->
 
