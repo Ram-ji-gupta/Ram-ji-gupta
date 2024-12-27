@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm RAM JI GUPTA</h1>
 <h3 align="center">A passionate DevOps Engineer | Cloud Computing Enthusiast | RHCSA Certified | Passionate about Automation and Innovative Solutions from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ram-ji-gupta&label=Profile%20views&color=0e75b6&style=flat" alt="ram-ji-gupta" /> </p>
+<img align="right" height="270px" width="450px" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWd3ZWg4cTczdjRwNWI4cGRrczhtdDRrbzNpamhsYXcwNmc0cWZudSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 - 🌱 I’m currently learning **NPM, Ruby On Rail**
 
@@ -27,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ram-ji-gupta&show_icons=true&locale=en" alt="ram-ji-gupta" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ram-ji-gupta&" alt="ram-ji-gupta" /></p>
+
+
